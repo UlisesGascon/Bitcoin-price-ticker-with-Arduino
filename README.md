@@ -16,11 +16,11 @@ var currency = "dollar"; // "dollar" or "euro"
 
 - **Dolares**
 
-![dollars](img/Bitcoin_dollars.jpeg)
+![dollars](img/Bitcoin_dollars.jpg)
 
 - **Euros**
 
-![euros](img/Bitcoin_euros.jpeg)
+![euros](img/Bitcoin_euros.jpg)
 
 Los Euros se calculan partiendo de los dolares, en primer lugar se multiplican por el valor de conversión definido en *euroRate*.
 
