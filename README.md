@@ -1,3 +1,5 @@
+### :warning: WARNING: this repo is not maintained anymore
+
 # Bitcoin-price-ticker-with-Arduino
 Este script nos permite ver en la pantalla LCD, el valor en Dolares o Euros de un Bitcon en tiempo real. 
 
